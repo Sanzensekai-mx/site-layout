@@ -926,6 +926,9 @@ textarea {
     .provide-wrap-title > p {
         width: auto;
     }
+    .contact-info {
+        padding: 120px 0 120px 50px;
+    }
 }
 
 @media screen and (max-width:500px) {
